@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-23T15:27:32.562085+00:00",
+  "timestamp": "2025-11-23T15:27:59.591737+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -16,6 +16,17 @@
         "coinGeckoId": "agora-dollar"
       },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/AUSD/logo.svg"
+    },
+    {
+      "chainId": 143,
+      "address": "0x4917a5ec9fCb5e10f47CBB197aBe6aB63be81fE8",
+      "name": "Asian Dollar",
+      "symbol": "AZND",
+      "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "mu-digital-aznd"
+      },
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/AZND/logo.svg"
     },
     {
       "chainId": 143,
@@ -168,6 +179,17 @@
     },
     {
       "chainId": 143,
+      "address": "0x336D414754967C6682B5A665C7DAF6F1409E63e8",
+      "name": "mu Bond",
+      "symbol": "muBOND",
+      "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "mu-digital-mubond"
+      },
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/muBOND/logo.svg"
+    },
+    {
+      "chainId": 143,
       "address": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
       "name": "Kintsu Staked Monad",
       "symbol": "sMON",
@@ -220,7 +242,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
