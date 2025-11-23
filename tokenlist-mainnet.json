@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-23T12:34:31.036299+00:00",
+  "timestamp": "2025-11-23T12:45:29.795046+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -12,6 +12,9 @@
       "name": "AUSD",
       "symbol": "AUSD",
       "decimals": 6,
+      "extensions": {
+        "coinGeckoId": "agora-dollar"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/AUSD/logo.svg"
     },
     {
@@ -20,6 +23,9 @@
       "name": "Folks Finance",
       "symbol": "FOLKS",
       "decimals": 6,
+      "extensions": {
+        "coinGeckoId": "folks"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/FOLKS/logo.svg"
     },
     {
@@ -28,6 +34,9 @@
       "name": "Monad",
       "symbol": "MON",
       "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "monad"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/MON/logo.svg"
     },
     {
@@ -44,6 +53,9 @@
       "name": "Wrapped SOL",
       "symbol": "SOL",
       "decimals": 9,
+      "extensions": {
+        "coinGeckoId": "wrapped-solana"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/SOL/logo.svg"
     },
     {
@@ -52,6 +64,9 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
+      "extensions": {
+        "coinGeckoId": "usd-coin"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/USDC/logo.svg"
     },
     {
@@ -60,6 +75,9 @@
       "name": "USDT0",
       "symbol": "USDT0",
       "decimals": 6,
+      "extensions": {
+        "coinGeckoId": "usdt0"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/USDT0/logo.svg"
     },
     {
@@ -68,6 +86,9 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
+      "extensions": {
+        "coinGeckoId": "wrapped-bitcoin"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/WBTC/logo.svg"
     },
     {
@@ -76,6 +97,9 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "weth"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/WETH/logo.svg"
     },
     {
@@ -92,6 +116,9 @@
       "name": "XAUt0",
       "symbol": "XAUt0",
       "decimals": 6,
+      "extensions": {
+        "coinGeckoId": "tether-gold-tokens"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/XAUt0/logo.svg"
     },
     {
@@ -107,6 +134,9 @@
       "name": "gMON",
       "symbol": "gMON",
       "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "magma-staked-monad"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/gMON/logo.svg"
     },
     {
@@ -163,12 +193,15 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "symbol": "wstETH",
       "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "wrapped-steth"
+      },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/wstETH/logo.svg"
     }
   ],
   "version": {
     "major": 2,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   }
 }
