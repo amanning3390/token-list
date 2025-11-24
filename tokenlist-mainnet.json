@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-24T04:18:49.073273+00:00",
+  "timestamp": "2025-11-24T08:07:21.269051+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -213,6 +213,14 @@
     },
     {
       "chainId": 143,
+      "address": "0x37D6382B6889cCeF8d6871A8b60E667115eDDBcF",
+      "name": "pufETH",
+      "symbol": "pufETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/pufETH/logo.png"
+    },
+    {
+      "chainId": 143,
       "address": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
       "name": "Kintsu Staked Monad",
       "symbol": "sMON",
@@ -265,7 +273,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   }
 }
