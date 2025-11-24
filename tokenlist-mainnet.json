@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-24T09:02:44.329964+00:00",
+  "timestamp": "2025-11-24T12:20:58.966916+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -35,6 +35,16 @@
       "symbol": "BTC.b",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/BTC.b/logo.svg"
+    },
+    {
+      "chainId": 143,
+      "address": "0xDef72Af3fc69E1Dd5a094f7DDa08Ba203CD0438B",
+      "name": "Euler",
+      "symbol": "EUL",
+      "decimals": 18,
+      "extensions": {
+        "coinGeckoId": "euler"
+      }
     },
     {
       "chainId": 143,
@@ -281,7 +291,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   }
 }
