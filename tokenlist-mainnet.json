@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-23T15:28:34.269258+00:00",
+  "timestamp": "2025-11-24T04:18:49.073273+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -176,6 +176,13 @@
     },
     {
       "chainId": 143,
+      "address": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
+      "name": "earnAUSD",
+      "symbol": "earnAUSD",
+      "decimals": 6
+    },
+    {
+      "chainId": 143,
       "address": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
       "name": "gMON",
       "symbol": "gMON",
@@ -258,7 +265,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
